@@ -1,0 +1,10 @@
+const JSX =
+<div>
+    <h1>Hello</h1>
+    <p>World</p>
+    <ul>
+        <li>Hello</li>
+        <li>World</li>
+        <li>11</li>
+    </ul>
+</div>;
